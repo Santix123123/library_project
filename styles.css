@@ -1,14 +1,117 @@
+/* General Styles */
 body {
     font-family: Arial, sans-serif;
-}
-
-#library {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f4f4f9;
+    color: #333;
+  }
+  
+  header {
+    background-color: #6200ea;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+  }
+  
+  header button {
+    background-color: #03dac5;
+    border: none;
+    padding: 0.5rem 1rem;
+    color: black;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  header button:hover {
+    background-color: #018786;
+  }
+  
+  /* Library Styles */
+  main {
+    padding: 2rem;
+  }
+  
+  #library {
     display: flex;
     flex-wrap: wrap;
-}
-
-.card {
-    border: 1px solid #ccc;
-    margin: 10px;
-    padding: 10px;
-}
+    gap: 1rem;
+    justify-content: center;
+  }
+  
+  .book {
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 1rem;
+    width: 200px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+  
+  .book h3 {
+    margin: 0;
+  }
+  
+  .book button {
+    padding: 0.5rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .book .remove-btn {
+    background-color: #e53935;
+    color: white;
+  }
+  
+  .book .toggle-read-btn {
+    background-color: #03dac5;
+    color: black;
+  }
+  
+  .book button:hover {
+    opacity: 0.9;
+  }
+  
+  /* Form Dialog Styles */
+  dialog {
+    border: none;
+    border-radius: 10px;
+    padding: 2rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+  
+  label {
+    font-weight: bold;
+  }
+  
+  input, select {
+    padding: 0.5rem;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .form-buttons {
+    display: flex;
+    gap: 1rem;
+  }
+  
+  #cancel-btn {
+    background-color: #e53935;
+    color: white;
+  }
+  
