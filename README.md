@@ -40,11 +40,11 @@ Click on the "Mark as Read" or "Mark as Unread" button to toggle the book's read
 Use the search bar at the top to filter books by title or author.
 
 ## Future Improvements Planned:
-*Responsive Design:*
+1. *Responsive Design:*
 Improve responsiveness for mobile and tablet views.
-*Book Categories:*
+2. *Book Categories:*
 Implement a feature to categorize books (e.g., Fiction, Non-fiction).
-*User Authentication:*
+3. *User Authentication:*
 Add user accounts to save their library preferences and books.
-*Book Ratings:*
+4. *Book Ratings:*
 Allow users to rate books out of 5 stars.
