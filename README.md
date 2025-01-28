@@ -5,20 +5,20 @@ This project is a web-based library management system built using HTML, CSS, and
 
 ## Features Implemented:
 ### Required Features:
-**Add New Book:** 
+1. **Add New Book:** 
 Users can input details such as author, title, number of pages, and read status.
-**Display Books:**
+2. **Display Books:**
 Books are displayed in a list or card format, showcasing their details.
-**Remove Book:** 
+3. **Remove Book:** 
 Each book has a remove button to delete it from the library.
-**Toggle Read Status:**
+4. **Toggle Read Status:**
 Books can have their read status toggled (read/unread).
 ### Additional Features:
-**Book Search:**
+1. **Book Search:**
 Implemented a search bar to filter books based on title or author.
-**Persistent Data:**
+2. **Persistent Data:**
 Used localStorage to keep the book data saved across page reloads.
-**Book Editing:**
+3. **Book Editing:**
 Added functionality to edit book details (e.g., title, author, etc.).
 
 # Installation Instructions:
