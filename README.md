@@ -1,6 +1,6 @@
-# H1 library_project:
+# library_project:
  Library Management System:
-# Project Description:
+## Project Description:
 This project is a web-based library management system built using HTML, CSS, and JavaScript. It allows users to add books, display them in a user-friendly interface, update the read status, and remove books from the library. The goal is to demonstrate the ability to manage an array of book objects and update the display dynamically.
 
 # Features Implemented:
