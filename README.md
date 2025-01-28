@@ -43,8 +43,8 @@ Use the search bar at the top to filter books by title or author.
 1. ***Responsive Design:***
 Improve responsiveness for mobile and tablet views.**!!**
 2. ***Book Categories:***
-Implement a feature to categorize books (e.g., Fiction, Non-fiction).### **!!**
+Implement a feature to categorize books (e.g., Fiction, Non-fiction).**!!**
 3. ***User Authentication:***
-Add user accounts to save their library preferences and books.### **!!**
+Add user accounts to save their library preferences and books.**!!**
 4. ***Book Ratings:***
-Allow users to rate books out of 5 stars.### **!!**
+Allow users to rate books out of 5 stars.**!!**
