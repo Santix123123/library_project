@@ -27,8 +27,7 @@ git clone https://github.com/yourusername/library-management-system.git
 ### 2. Navigate to the project directory:
 **Bash:**
 cd library-management-system
-
-3. Open the index.html file in your browser to start using the application.
+### 3. Open the index.html file in your browser to start using the application.
 
 # Usage Guidelines:
 # Add a Book: 
