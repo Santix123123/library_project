@@ -21,14 +21,14 @@ Used localStorage to keep the book data saved across page reloads.
 Added functionality to edit book details (e.g., title, author, etc.).
 
 ## Installation Instructions:
-### Clone the repository:**
+### 1. Clone the repository:
 **Bash:**
-2. git clone https://github.com/yourusername/library-management-system.git
-# Navigate to the project directory:
-# Bash:
+git clone https://github.com/yourusername/library-management-system.git
+### 2. Navigate to the project directory:
+**Bash:**
 cd library-management-system
 
-Open the index.html file in your browser to start using the application.
+3. Open the index.html file in your browser to start using the application.
 
 # Usage Guidelines:
 # Add a Book: 
