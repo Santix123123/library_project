@@ -3,22 +3,22 @@
 ### Project Description:
 This project is a web-based library management system built using HTML, CSS, and JavaScript. It allows users to add books, display them in a user-friendly interface, update the read status, and remove books from the library. The goal is to demonstrate the ability to manage an array of book objects and update the display dynamically.
 
-# Features Implemented:
-# Required Features:
-# Add New Book: 
+## Features Implemented:
+### Required Features:
+**Add New Book:** 
 Users can input details such as author, title, number of pages, and read status.
-# Display Books: 
+**Display Books:**
 Books are displayed in a list or card format, showcasing their details.
-# Remove Book: 
+**Remove Book:** 
 Each book has a remove button to delete it from the library.
-# Toggle Read Status: 
+**Toggle Read Status:**
 Books can have their read status toggled (read/unread).
-# Additional Features:
-# Book Search: 
+### Additional Features:
+**Book Search:**
 Implemented a search bar to filter books based on title or author.
-# Persistent Data: 
+**Persistent Data:**
 Used localStorage to keep the book data saved across page reloads.
-# Book Editing: 
+**Book Editing:**
 Added functionality to edit book details (e.g., title, author, etc.).
 
 # Installation Instructions:
