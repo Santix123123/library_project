@@ -29,14 +29,14 @@ git clone https://github.com/yourusername/library-management-system.git
 cd library-management-system
 ### 3. Open the index.html file in your browser to start using the application.
 
-# Usage Guidelines:
-# Add a Book: 
+## Usage Guidelines:
+1. **Add a Book:**
 Click on the "New Book" button to open the form, then fill in the book details and submit it to add it to the library.
-# Remove a Book: 
+2. **Remove a Book:**
 Click on the "Remove" button next to any book to delete it from the library.
-# Change Read Status: 
+3. **Change Read Status:**
 Click on the "Mark as Read" or "Mark as Unread" button to toggle the book's read status.
-# Search Books: 
+4. **Search Books:**
 Use the search bar at the top to filter books by title or author.
 
 # Future Improvements Planned:
