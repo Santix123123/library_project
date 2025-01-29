@@ -72,13 +72,13 @@ Allow users to rate books out of 5 stars.**!!**
 
 2. **DOM Manipulation**
 
-   -Used JavaScript to dynamically update the webpage based on user interactions.
+      -Used JavaScript to dynamically update the webpage based on user interactions.
 
    -Implemented event listeners to handle button clicks and form submissions.
 
 3. **Event Handling & Form Submission**
 
-  -Discovered the importance of *event.preventDefault()* to prevent unwanted form submissions.
+     -Discovered the importance of *event.preventDefault()* to prevent unwanted form submissions.
 
   -Built interactive UI elements, like a form and buttons, to add and modify book entries.
 
