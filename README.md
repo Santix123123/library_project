@@ -4,7 +4,7 @@ This project is a web-based library management system built using HTML, CSS, and
 
 ## Working Project: 
 ![Screenshot_2025-01-29_21-40-04](https://github.com/user-attachments/assets/a31568d3-298e-493f-8856-bf74ce42ebf8)
-
+<img src="[https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png](https://github.com/user-attachments/assets/a31568d3-298e-493f-8856-bf74ce42ebf8)" alt="GitHub Logo" width="200"/>
 
 ## Features Implemented:
 ### Required Features:
