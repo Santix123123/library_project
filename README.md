@@ -8,7 +8,7 @@ This project is a web-based library management system built using HTML, CSS, and
 
 ## Technology used:
 ### Core technologies:
-1. <span style="color blue;">**HTML**</span>- For structuring the webpage and creating the book display layout.
+1. **HTML**</span>- For structuring the webpage and creating the book display layout.
 2. **CSS**- For styling the interface, making it visually appealing and responsive.
 3. **JavaScript**- For handling book data, user interactions, and dynamically updating the DOM.
 ### Development Tools & Version Control:
@@ -43,7 +43,8 @@ git clone https://github.com/yourusername/library-management-system.git
 ### 2. Navigate to the project directory:
 **Bash:**
 cd library-management-system
-### 3. Open the index.html file in your browser to start using the application.
+### 3. 
+Open the index.html file in your browser to start using the application.
 
 ## Usage Guidelines:
 1. **Add a Book:**
