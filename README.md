@@ -1,7 +1,5 @@
 # *Library_Project:*
-<span style="color: red;"> 
 ### Project Description: 
-</span>
 This project is a web-based library management system built using HTML, CSS, and JavaScript. It allows users to add books, display them in a user-friendly interface, update the read status, and remove books from the library. The goal is to demonstrate the ability to manage an array of book objects and update the display dynamically.
 
 ## Working Project: 
@@ -10,7 +8,7 @@ This project is a web-based library management system built using HTML, CSS, and
 
 ## Technology used:
 ### Core technologies:
-1. **HTML**- For structuring the webpage and creating the book display layout.
+1. <span style="color blue;">**HTML**</span>- For structuring the webpage and creating the book display layout.
 2. **CSS**- For styling the interface, making it visually appealing and responsive.
 3. **JavaScript**- For handling book data, user interactions, and dynamically updating the DOM.
 ### Development Tools & Version Control:
