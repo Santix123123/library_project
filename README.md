@@ -121,4 +121,4 @@ Allow users to rate books out of 5 stars.**!!**
      -Explored potential improvements such as authentication and book categorization for future scalability.
 
 ## Live Demo
-You can view the live demo of my project at: 
+You can view the live demo of my project at: (https://santix123123.github.io/library_project/).
