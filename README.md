@@ -119,3 +119,6 @@ Allow users to rate books out of 5 stars.**!!**
      -Learned how to plan and document features in a README file.
 
      -Explored potential improvements such as authentication and book categorization for future scalability.
+
+## Live Demo
+You can view the live demo of my project at: 
