@@ -6,6 +6,18 @@ This project is a web-based library management system built using HTML, CSS, and
 ![Screenshot_2025-01-29_21-40-04](https://github.com/user-attachments/assets/a31568d3-298e-493f-8856-bf74ce42ebf8)
 ![Screenshot_2025-01-29_21-54-53](https://github.com/user-attachments/assets/64b9aaa4-2295-495d-9801-e4ab3d7d7f19)
 
+## Technology used:
+### Core technologies:
+1. **HTML**- For structuring the webpage and creating the book display layout.
+2. **CSS**- For styling the interface, making it visually appealing and responsive.
+3. **JavaScript**- For handling book data, user interactions, and dynamically updating the DOM.
+### Development Tools & Version Control:
+1. **Git**- For version control, managing changes, and tracking development progress.
+2. **GitHub**-  For hosting the project repository and facilitating collaboration.
+### Additional Features & APIs:
+1. **LocalStorage API**- To store book data persistently so that it remains after page reloads.
+2. **Event Listeners**- For handling form submissions, button clicks, and user interactions.
+
 ## Features Implemented:
 ### Required Features:
 1. **Add New Book:** 
