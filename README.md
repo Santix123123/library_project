@@ -67,11 +67,13 @@ Allow users to rate books out of 5 stars.**!!**
 1. **JavaScript Object-Oriented Programming (OOP)**
    
    -Learned how to create and manage objects using constructors.
-   
    -Practiced working with arrays to store and manipulate book data.
+
 3. **DOM Manipulation**
+
    -Used JavaScript to dynamically update the webpage based on user interactions.
    -Implemented event listeners to handle button clicks and form submissions.
+
 4. **Event Handling & Form Submission**
   *Discovered the importance of *event.preventDefault()* to prevent unwanted form submissions.
   *Built interactive UI elements, like a form and buttons, to add and modify book entries.
