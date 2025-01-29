@@ -66,15 +66,15 @@ Allow users to rate books out of 5 stars.**!!**
 ## Learning Outcomes from This Project:
 1. **JavaScript Object-Oriented Programming (OOP)**
    
-   -Learned how to create and manage objects using constructors.
+      -Learned how to create and manage objects using constructors.
 
-   -Practiced working with arrays to store and manipulate book data.
+      -Practiced working with arrays to store and manipulate book data.
 
 2. **DOM Manipulation**
 
       -Used JavaScript to dynamically update the webpage based on user interactions.
 
-   -Implemented event listeners to handle button clicks and form submissions.
+      -Implemented event listeners to handle button clicks and form submissions.
 
 3. **Event Handling & Form Submission**
 
@@ -117,4 +117,5 @@ Allow users to rate books out of 5 stars.**!!**
 10. **Planning & Feature Expansion**
 
   -Learned how to plan and document features in a README file.
+
   -Explored potential improvements such as authentication and book categorization for future scalability.
