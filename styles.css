@@ -45,7 +45,7 @@ body {
   }
   
   .book {
-    background-color: white;
+    background-color: rgb(243, 232, 232);
     border: 1px solid #ddd;
     border-radius: 8px;
     padding: 1rem;
